@@ -98,9 +98,8 @@ footer {
 }
 
 footer nav {
-    height: 10vh;
-    margin: 1vh;
-    list-style-type: none;
+    height: 5vh;
+    margin: 5vh;
 }
 
 footer a {
@@ -113,6 +112,10 @@ footer a {
 
 footer a:hover {
     color: var(--color-one) !important;
+}
+
+footer ul{
+    list-style-type: none;
 }
 
 hr {
